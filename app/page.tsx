@@ -29,7 +29,7 @@ export default function HomePage() {
               </div>
               <div className="md:w-1/2">
                 <img
-                  src="/RC.JPG?height=400&width=600"
+                  src="/RC.jpg?height=400&width=600"
                   alt="Campus Overview"
                   className="rounded-lg shadow-lg"
                 />

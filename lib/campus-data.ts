@@ -122,7 +122,7 @@ export const campusBuildings: BuildingCategory[] = [
         location: "R1 Campus",
         facilities: ["Double rooms", "Community bathrooms", "Study lounges", "Laundry facilities"],
         history: "Built in 2015 to create a dedicated space for  students to build community.",
-        image: "/placeholder.svg?height=300&width=500",
+        image: "/bh.jpg?height=300&width=500",
         coordinates: {
           lat: 40.71,
           lng: -74.007,
@@ -135,7 +135,7 @@ export const campusBuildings: BuildingCategory[] = [
         location: "Main Campus",
         facilities: ["Full kitchens", "Private bathrooms", "Living rooms", "In-unit laundry"],
         history: "Constructed in 2015 to provide independent living options for Girls.",
-        image: "/placeholder.svg?height=300&width=500",
+        image: "/gh.jpg?height=300&width=500",
         coordinates: {
           lat: 40.716,
           lng: -74.005,
@@ -168,7 +168,7 @@ export const campusBuildings: BuildingCategory[] = [
         location: "R1 Campus",
         facilities: ["Food court", "Bookstore", "Game room", "Meeting rooms", "Auditorium"],
         history: "Renovated in 2019 to expand dining options and create more student gathering spaces.",
-        image: "/placeholder.svg?height=300&width=500",
+        image: "/ca.jpg?height=300&width=500",
         coordinates: {
           lat: 40.713,
           lng: -74.0065,
